@@ -2,6 +2,9 @@
 
 This template add support for OS6900.
 
+# Zabbix Version
+4.2
+
 # Support Device
 * OS6860(E)
 * OS6900
