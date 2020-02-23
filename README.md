@@ -5,7 +5,7 @@ This template add support for OS6900 and slot health statistics.
 ## Zabbix Version
 4.2, 4.4
 
-## Support Device
+## Tested platform
 * OS6860(E)
 * OS6900
 
